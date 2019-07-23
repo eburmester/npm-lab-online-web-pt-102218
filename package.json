@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/eburmester/npm-lab-online-web-pt-102218/issues"
   },
-  "homepage": "https://github.com/eburmester/npm-lab-online-web-pt-102218#readme"
+  "homepage": "https://github.com/eburmester/npm-lab-online-web-pt-102218#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
